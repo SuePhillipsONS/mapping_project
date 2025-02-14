@@ -1,2 +1,4 @@
 # ignore config file
 config.json
+ab_geo.geojson
+ngd_geo.geojson
