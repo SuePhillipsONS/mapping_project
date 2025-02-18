@@ -9,6 +9,6 @@ Please enter the name of your datasets as you want them to appear on the maps in
 
 Please add your dataset file path in the code as: dataset_1 = , and dataset_2 = .
 
-The final step will save a local copy of the amps and open them in a pop-up window.
+The final step will save a local copy of the maps and open them in a pop-up window.
 
 This was made by [Sue Phillips](mailto:sue.phillips@ons.gov.uk) as part of her apprenticeship rotation through the ONS Geospatial team in DALI.
