@@ -17,8 +17,8 @@ This will compare how many records are in both datasets.
 
 
 Dataset_1 has 9043 records, dataset_2_uniq has 2433 records
-There are 398 geomentry records in dataset_1 that are also in dataset_2_uniq 
-There are 385 geometry records in dataset_2_uniq that are also in dataset_1 
+There are 398 geomentry records in dataset_1 that are also in dataset_2_uniq
+There are 385 geometry records in dataset_2_uniq that are also in dataset_1
 There are 5652 unique uprns in dataset_1 and 1433 unique uprns in dataset_2_uniq
 There are 956 uprn records in dataset_1 that are also in dataset_2_uniq, this is 10.6 percent of dataset_1
 There are 956 uprn records in dataset_2_uniq that are also in dataset_1 , this is 39.3 percent of dataset_2_uniq
