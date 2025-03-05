@@ -16,14 +16,14 @@ The final step will save a local copy of the maps and open them in a pop-up wind
 This will compare how many records are in both datasets. 
 
 
-Dataset_1 has 9043 records, dataset_2_uniq has 2433 records
-There are 398 geomentry records in dataset_1 that are also in dataset_2_uniq
-There are 385 geometry records in dataset_2_uniq that are also in dataset_1
-There are 5652 unique uprns in dataset_1 and 1433 unique uprns in dataset_2_uniq
-There are 956 uprn records in dataset_1 that are also in dataset_2_uniq, this is 10.6 percent of dataset_1
-There are 956 uprn records in dataset_2_uniq that are also in dataset_1 , this is 39.3 percent of dataset_2_uniq
+Dataset_1 has 9043 records, dataset_2_uniq has 2433 records.
+There are 398 geomentry records in dataset_1 that are also in dataset_2_uniq.
+There are 385 geometry records in dataset_2_uniq that are also in dataset_1.
+There are 5652 unique uprns in dataset_1 and 1433 unique uprns in dataset_2_uniq.
+There are 956 uprn records in dataset_1 that are also in dataset_2_uniq, this is 10.6 percent of dataset_1.
+There are 956 uprn records in dataset_2_uniq that are also in dataset_1 , this is 39.3 percent of dataset_2_uniq.
 
-Dataset_1 recipe: Land use: Site: filter: description = Post Office
+Dataset_1 recipe: Land use: Site: filter: description = Post Office.
 Dataset_2 filtered on classification code and not historic
 
 ## 
